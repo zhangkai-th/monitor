@@ -1,0 +1,16 @@
+sendmessage:  
+  fromemail: 837861802@qq.com
+  smtpserver: smtp.qq.com
+  smtpport: 25
+  password: vkxplbkadetsbeac
+  toemail: 
+    - "837861802@qq.com"
+    - "18729961833@163.com"
+    - "18729961833@139.com"
+message:
+  subject: 
+  file:
+  bodytype:
+  body:
+diskmessage:
+  partition: "C:"
